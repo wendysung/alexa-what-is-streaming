@@ -1,6 +1,6 @@
 # alexa-what-is-streaming
 
-# Privacy Policy
+# Privacy PolicyCancel changes
 
 Last updated: December 15, 2022
 
